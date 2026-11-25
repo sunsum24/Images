@@ -1,2 +1,1 @@
-# Images
-Portfolio Assets 
+This repository serves as the centralized media library for my cybersecurity and Red Team portfolio. It contains all the mock ups of  architectural diagrams, terminal screenshots, dashboards, and visual aids used across my project repositories.
